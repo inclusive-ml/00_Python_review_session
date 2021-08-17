@@ -1,22 +1,20 @@
+# Introduction
+
+Here a a few resources to help you learn the basics of python and python for datascience that you will need in this cursus. 
+
+We recommend that you 
+
+1. get a quick browse of "just-enough-python"
+2. move on to koans. Do them all in our first week. 
+3. rapidly read over numpy and pandas (we will come back to that in later lessons)
+4. glimpse over the other files. These are resources for when you might need them later. Simply have a check about what the resources are and what help they might provide you with. 
+5. glimpse over the cheatsheet and pick the ones that are the most useful to you as a function of what you are already familiar with
+
+# Bonus
+
+If you have time, here is yet another resource for a quick review of all aspects of the python language. 
 
 https://github.com/hunkim/PythonZeroToAll
-
-
-Table Of Contents
-Lab1 Introduction
-> Datatypes, I/O, Import, Operators
-> Flow Control: if-else, for Loop, while Loop
-Lab2 Basic DataTypes
-> List, Tuple, Dictionary, Set, etc.
-Lab3 Strings
-Lab4 Functions
-> Built-Ins, Python Functionals
-Lab5 Class
-> Object, Class, Inheritance, Overloading
-Lab6 Advanced Topics
-> Closures, Decorators, etc.
-Lab7 Numpy
-
 
 # References
 
